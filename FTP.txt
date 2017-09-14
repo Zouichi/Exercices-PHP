@@ -1,0 +1,5 @@
+-          Accès FTP :
+o   Hôte : 164.132.54.249
+o   Identifiant : sta2
+o   Mot de passe : vdD8xjGnQTP9eEBI
+-          http : url = http://164.132.54.249/stagiaire/sta2/
